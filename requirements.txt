@@ -1,0 +1,22 @@
+# Drug Recommendation System - Requirements
+# Natural Language Processing Project
+# Authors: Mossab Arektout and Abderrahim Mabrouk
+
+# Core Data Science Libraries
+pandas==2.2.2
+numpy==2.0.2
+
+# Machine Learning and NLP
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+IPython>=8.0.0
+
+# Additional Dependencies
+warnings-filter>=0.1.0
