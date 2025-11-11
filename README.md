@@ -68,7 +68,7 @@ See [requirements.txt](requirements.txt) for complete list.
 
 ### Running the Notebook
 
-Open [Text_Mining.ipynb](Text_Mining.ipynb) and run all cells sequentially to:
+Open [Drug_Recommendation.ipynb](Drug_Recommendation.ipynb) and run all cells sequentially to:
 
 1. Load and explore the dataset
 2. Preprocess text data
@@ -84,17 +84,6 @@ The notebook includes an interactive widget where you can:
 - View top 10 recommendations with similarity scores
 - See visual similarity bars
 - Get statistics about recommendation quality
-
-### Example Usage
-
-```python
-# Get recommendations for a medicine
-result = recommend("A CN Gel(Topical) 20gmA CN Soap 75gm", medicines, similarity, top_n=5)
-
-# Display results
-for i, rec in enumerate(result['recommendations'], 1):
-    print(f"{i}. {rec['name']} - Similarity: {rec['score']:.4f}")
-```
 
 ## Results
 
@@ -196,9 +185,37 @@ This project is for educational purposes as part of a Natural Language Processin
 
 ## Contact
 
+<!-- For questions or feedback about this project:  
+- **Mossab Arektout** – [mossabarektout2000@gmail.com](mailto:mossabarektout2000@gmail.com)  
+- **Abderrahim Mabrouk** – [Abdemabrouk01@gmail.com](mailto:Abdemabrouk01@gmail.com) -->
+
+## 📬 Contact
+
 For questions or feedback about this project:
-- **Mossab Arektout**
-- **Abderrahim Mabrouk**
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Abderrahimself">
+        <img src="https://github.com/MossabArektout.png" width="100px;" alt="Mossab Arektout"/>
+        <br />
+        <sub><b>Mossab Arektout</b></sub>
+      </a>
+      <br />
+      <a href="mailto:mossabarektout2000@gmail.com">📧 .mossabarektout2000@gmail.com</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Abderrahimself">
+        <img src="https://github.com/Abderrahimself.png" width="100px;" alt="Abderrahim Mabrouk"/>
+        <br />
+        <sub><b>Abderrahim Mabrouk</b></sub>
+      </a>
+      <br />
+      <a href="mailto:Abdemabrouk01@gmail.com">📧 Abdemabrouk01@gmail.com</a>
+    </td>
+  </tr>
+</table>
+
 
 ## Acknowledgments
 
@@ -208,4 +225,4 @@ For questions or feedback about this project:
 
 ---
 
-**Last Updated:** January 2025
+**Last Updated:** November 2025
