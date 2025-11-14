@@ -68,6 +68,15 @@ See [requirements.txt](requirements.txt) for complete list.
 
 ### Running the Notebook
 
+You can run this project in two ways:
+
+#### Option 1: Google Colab (Recommended - No Installation Required)
+Click the button below to run the notebook directly in Google Colab:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-ti3D-6x0d1IeX5ExTMh4QgYjvHyNJkL#scrollTo=0yFPx-9ZjLJB)
+
+#### Option 2: Local Jupyter Notebook
+
 Open [Drug_Recommendation.ipynb](Drug_Recommendation.ipynb) and run all cells sequentially to:
 
 1. Load and explore the dataset
